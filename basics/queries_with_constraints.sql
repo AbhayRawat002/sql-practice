@@ -31,6 +31,8 @@ SELECT title, release_year  -- Show only these two columns.
 FROM Movies		-- Use the Movies table.
 ORDER BY release_year	-- Sort from oldest year to newest year
 LIMIT 5; 	-- Return only the first 5 rows after sorting.
+
+-- SQL Lesson 3: Queries with constraints (Pt. 2)
  
 -- Exercise 3 — Tasks
 -- 1.Find all the Toy Story movies
