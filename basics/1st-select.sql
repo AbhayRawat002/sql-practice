@@ -1,4 +1,4 @@
--- SQL Lesson 1: SELECT queries
+-- -- SQL Lesson 1: Basic SQL (CREATE, USE, SELECT)
 
 CREATE DATABASE sql_practice; 
 
