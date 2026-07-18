@@ -1,3 +1,5 @@
+-- SQL Lesson 5- Review: Simple SELECT Queries
+
 USE sql_practice; 
 
 CREATE TABLE Cities (
