@@ -1,5 +1,20 @@
--- SQL Lesson 5- Review: Simple SELECT Queries
+/*
+SQL Review & Practice Exercises
 
+Topics Covered:
+- SELECT Queries
+- WHERE Conditions
+- LIKE & Wildcards
+- ORDER BY
+- LIMIT & OFFSET
+- Practice using Movies and Cities tables
+
+Purpose:
+Revision and practice of SQL concepts learned in Lessons 1–4.
+
+Source:
+SQLBolt
+*/
 USE sql_practice; 
 
 CREATE TABLE Cities (

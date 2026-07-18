@@ -1,4 +1,18 @@
--- SQL Lesson 6: Multi-table queries with JOINs
+/*
+Lesson 5: Multi-table Queries with INNER JOIN
+
+Topics Covered:
+- Database Normalization
+- Primary Key
+- Foreign Key
+- INNER JOIN
+- JOIN with WHERE
+- JOIN with ORDER BY
+
+Source:
+SQLBolt
+
+*/
 
 USE sql_practice;
 

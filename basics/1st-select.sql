@@ -1,5 +1,18 @@
--- -- SQL Lesson 1: Basic SQL (CREATE, USE, SELECT)
+/*
+Lesson 1: Basic SQL Queries
 
+Topics Covered:
+- CREATE DATABASE
+- USE
+- CREATE TABLE
+- INSERT INTO
+- SELECT
+- WHERE
+
+Source:
+SQLBolt
+
+*/
 CREATE DATABASE sql_practice; 
 
 use sql_practice; 

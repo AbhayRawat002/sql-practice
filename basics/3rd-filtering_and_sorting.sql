@@ -1,5 +1,18 @@
--- SQL Lesson 4: Filtering and sorting Query results
+/*
+Lesson 3: Filtering and Sorting Query Results
 
+Topics Covered:
+- DISTINCT
+- ORDER BY
+- ASC & DESC
+- LIMIT
+- OFFSET
+- Sorting query results
+- Removing duplicate values
+
+Source:
+SQLBolt
+*/
 USE sql_practice; 
 -- Exercise 4 — Tasks
 -- 1.List all directors of Pixar movies (alphabetically), without duplicates

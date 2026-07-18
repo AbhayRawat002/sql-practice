@@ -1,4 +1,17 @@
--- SQL Lesson 2: Queries with constraints
+/*
+Lesson 2: Queries with Constraints
+
+Topics Covered:
+- WHERE
+- AND
+- OR
+- BETWEEN
+- LIMIT
+
+Source:
+SQLBolt
+
+*/
 
 USE sql_practice;
 
