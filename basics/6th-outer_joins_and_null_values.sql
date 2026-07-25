@@ -1,13 +1,15 @@
 /*
-Lesson 7: OUTER JOINs
+Lesson 7-8: OUTER JOINs & NULL Values
 
 Topics Covered:
 - Difference between INNER JOIN and OUTER JOIN
 - LEFT JOIN
 - RIGHT JOIN
-- FULL JOIN
+- FULL JOIN concepts
 - Handling unmatched rows
-- Working with NULL values in joined tables
+- Understanding NULL values
+- IS NULL and IS NOT NULL conditions
+- Finding missing relationships using JOINs
 - Using table aliases
 
 Source:
